@@ -5,7 +5,7 @@
       "branch": "android-12-release-s3rwds32.123-29-2-2",
       "device": "coful"
     },
-    "withKernelSU": flase,
+    "withKernelSU": false,
     "toolchains": [
       {
         "repo": "https://android.googlesource.com/platform/prebuilts/gas/linux-x86",
