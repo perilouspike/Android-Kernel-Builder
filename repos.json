@@ -1,11 +1,11 @@
 [  {
     "kernelSource": {
-      "name": "miku-KernelSU",
-      "repo": "https://github.com/PhamtomK12/kernel_xiaomi_odin",
-      "branch": "TDA",
-      "device": "odin"
+      "name": "perilouspike",
+      "repo": "https://github.com/perilouspike/kernel-mtk.git",
+      "branch": "android-12-release-s3rwds32.123-29-2-2",
+      "device": "coful"
     },
-    "withKernelSU": true,
+    "withKernelSU": flase,
     "toolchains": [
       {
         "repo": "https://android.googlesource.com/platform/prebuilts/gas/linux-x86",
